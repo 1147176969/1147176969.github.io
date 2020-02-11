@@ -25,6 +25,23 @@ body {
     bottom: 10px;
     right: 10px;
 }
+.ds,
+.zs,
+.fs {
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    top: 20px;
+}
+.fs {
+    left: 390px;
+}
+.ds {
+    left: 310px;
+}
+.zs {
+    right: 400px;
+}
 /*end*/
 
 
@@ -41,7 +58,7 @@ body {
     padding-bottom: 10px;
 }
 .ad {
-    background: rgb(6, 44, 88);
+    background: #CD7F32;;
     height: 30px;
     line-height: 30px;
     text-align: center;
